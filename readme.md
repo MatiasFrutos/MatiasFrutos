@@ -96,6 +96,66 @@ Fundé **[Zernyx Tech Studio](https://github.com/MatiasFrutos)**, un emprendimie
 
 ---
 
+## 📜 Certificaciones
+
+### 🐍 Python / Backend
+| Certificado | Institución | Año |
+|---|---|---|
+| Desarrollador Python | Edutin Academy | 2026 |
+| Certificación en Programación Python | PythonX | 2025 |
+| Principios de Inteligencia Artificial | Digital House | 2025 |
+| Back End en Java | Digital House | 2025 |
+| React Developer | Digital House | 2025 |
+| Lógica de programación con Scratch | Digital House | 2025 |
+
+### 🌐 Web / Frontend
+| Certificado | Institución | Año |
+|---|---|---|
+| Curso de introducción al desarrollo web: HTML y CSS | Google | 2025 |
+| Aprende HTML y CSS desde cero con freeCodeCamp | Cursa | 2025 |
+| Introducción al código | Google | 2025 |
+| Introducción al mundo web | EducacionIT | 2025 |
+
+### 🗄️ Data / Bases de datos
+| Certificado | Institución | Año |
+|---|---|---|
+| Data Base Analyst | Digital House | 2025 |
+| Data Skills | Digital House | 2025 |
+| Aprende SQL ahora con Hola Mundo Dev | Cursa | 2025 |
+
+### 🔐 Seguridad / QA
+| Certificado | Institución | Año |
+|---|---|---|
+| Introducción al mundo de la Seguridad Informática | EducacionIT | 2025 |
+| Testing QA Automatizado | Digital House | 2025 |
+
+### ⚙️ DevOps
+| Certificado | Institución | Año |
+|---|---|---|
+| DevOps Engineer | Digital House | 2025 |
+| Introducción al lenguaje de Programación | EducacionIT | 2025 |
+
+### 🎨 Gestión / Diseño / Soft Skills
+| Certificado | Institución | Año |
+|---|---|---|
+| Digital Product Management | Digital House | 2025 |
+| Web Designer | Digital House | 2025 |
+| Fundamentos del Diseño Gráfico | EducacionIT | 2025 |
+| Soft Skills Trainings | Digital House | 2025 |
+| Talent Space | Digital House | 2025 |
+
+### 🔧 Hardware / Electrónica
+| Certificado | Institución | Año |
+|---|---|---|
+| Diagnóstico de fusileras electrónicas | FAATRA | 2018 |
+| UPS Eaton 93T — Sistemas de Energía Ininterrumpida | Eaton / Sieco S.A. | 2025 |
+
+
+
+
+---
+
+
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-matias.frutos@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matias.frutos@outlook.com)
