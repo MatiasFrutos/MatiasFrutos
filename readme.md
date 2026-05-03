@@ -4,8 +4,7 @@
 
 ### Full Stack Developer · Fundador de Zernyx Tech Studio · Buenos Aires 🇦🇷
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED¢er=true&vCenter=true&width=500&lines=Full+Stack+Developer;Fundador+de+Zernyx+Tech+Studio+%E2%9A%A1;Python+%7C+C%23+%7C+JavaScript+%7C+TypeScript;Construyo+herramientas+que+resuelven+problemas)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;T%C3%A9cnico+Electr%C3%B3nico;Fundador+de+Zernyx+Tech+Studio+%E2%9A%A1;DevOps+%7C+Backend+%7C+Frontend;Python+%7C+C%23+%7C+JavaScript+%7C+TypeScript;Docker+%7C+MongoDB+%7C+PostgreSQL;Node.js+%7C+Angular+%7C+Flask;Construyo+herramientas+que+resuelven+problemas+%F0%9F%9A%80)
 
 
 
