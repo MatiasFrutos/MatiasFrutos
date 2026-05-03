@@ -98,8 +98,8 @@ Fundé **[Zernyx Tech Studio](https://github.com/MatiasFrutos)**, un emprendimie
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-matiasysaac8@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matias.frutos@outlook.com)
-[![CV](https://img.shields.io/badge/Portfolio-matiafrutos.site-2496ED?style=flat&logo=google-chrome&logoColor=white)](https://www.matiafrutos.site/)
+[![Email](https://img.shields.io/badge/Email-matias.frutos@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matias.frutos@outlook.com)
+[![CV](https://img.shields.io/badge/CV-matiafrutos.site-2496ED?style=flat&logo=google-chrome&logoColor=white)](https://www.matiafrutos.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/matiafrutos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matiafrutos)
 
 ---
