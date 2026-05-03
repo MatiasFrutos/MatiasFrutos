@@ -21,8 +21,8 @@ Fundé **[Zernyx Tech Studio](https://github.com/MatiasFrutos)**, un emprendimie
 - 🔭 Construyendo herramientas de sistema, automatizaciones y apps web
 - 🌱 Aprendiendo **Docker · Integración de IA · C# avanzado · MongoDB**
 - 📍 Buenos Aires, Argentina
-- 📫 Contacto: **matiasysaac8@gmail.com**
-- 🌐 Portfolio: **[matiafrutos.site](https://www.matiafrutos.site/)**
+- 📫 Contacto: **matias.frutos@outlook.com**
+- 🌐 Portfolio: **[matiasfrutos.site](https://www.matiasfrutos.site/)**
 
 ---
 
