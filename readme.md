@@ -246,16 +246,30 @@ StackForge busca hacer que Forth sea más fácil de entender, visualizar y pract
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatiasFrutos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<table>
+  <tr>
+    <td align="center" width="260">
+      <h3>🚀 Proyectos</h3>
+      <p>Herramientas propias, utilidades de sistema, apps web y soluciones bajo ZERNYX.</p>
+    </td>
+    <td align="center" width="260">
+      <h3>🧠 Stack</h3>
+      <p>Python · JavaScript · TypeScript · C# · Node.js · PostgreSQL · Docker.</p>
+    </td>
+    <td align="center" width="260">
+      <h3>⚙️ Enfoque</h3>
+      <p>Automatización, productividad, sistemas, backend, frontend e integración con IA.</p>
+    </td>
+  </tr>
+</table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasFrutos&layout=compact&theme=tokyonight&hide_border=true" />
+<br>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=MatiasFrutos&theme=tokyonight&hide_border=true" />
+![Repos](https://img.shields.io/badge/Repositorios-Proyectos_activos-2496ED?style=for-the-badge&logo=github&logoColor=white)
+![Code](https://img.shields.io/badge/C%C3%B3digo-En_constante_mejora-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![ZERNYX](https://img.shields.io/badge/ZERNYX-Tech_Studio-111827?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
-
 ---
 
 ## 🧩 Forma de trabajo
