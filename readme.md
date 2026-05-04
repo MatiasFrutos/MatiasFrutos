@@ -157,14 +157,152 @@ StackForge busca hacer que Forth sea más fácil de entender, visualizar y pract
 
 ## 📌 Áreas de interés
 
-```txt
-Backend Development
-Frontend Development
-Desktop Apps
-Automation Tools
-System Utilities
-Local AI Integration
-Database Design
-DevOps Basics
-Technical Support Tools
-Business Software
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Backend-Development-2496ED?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <br>
+      APIs, servicios, lógica de negocio y arquitectura server-side.
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Frontend-Development-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
+      <br>
+      Interfaces modernas, responsive y orientadas a experiencia de usuario.
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Desktop-Apps-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+      <br>
+      Aplicaciones de escritorio, herramientas internas y utilidades para Windows.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Automation-Tools-FF6F00?style=for-the-badge&logo=powershell&logoColor=white" />
+      <br>
+      Scripts, tareas automáticas y procesos que ahorran tiempo operativo.
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/System-Utilities-111111?style=for-the-badge&logo=windows&logoColor=white" />
+      <br>
+      Herramientas para diagnóstico, mantenimiento y administración de sistemas.
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Local_AI-Integration-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+      <br>
+      Integración de modelos locales, asistentes internos y flujos con IA.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Database-Design-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <br>
+      Modelado de datos, consultas, estructuras SQL y persistencia.
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/DevOps-Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <br>
+      Docker, despliegues, configuración de entornos y servidores VPS.
+    </td>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Business-Software-10B981?style=for-the-badge&logo=databricks&logoColor=white" />
+      <br>
+      Sistemas administrativos, paneles internos y soluciones para negocios.
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🧭 Enfoque profesional
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <h3>🔍 Analizar</h3>
+      <p>Entender el problema antes de escribir código.</p>
+    </td>
+    <td align="center" width="250">
+      <h3>🧱 Construir</h3>
+      <p>Crear una base funcional, clara y mantenible.</p>
+    </td>
+    <td align="center" width="250">
+      <h3>🚀 Mejorar</h3>
+      <p>Iterar, optimizar y llevar el proyecto a un nivel más profesional.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatiasFrutos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasFrutos&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=MatiasFrutos&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 Forma de trabajo
+
+Me gusta trabajar con una mentalidad práctica: entender el problema, diseñar una solución simple, construir una primera versión funcional y luego mejorarla.
+
+Mi enfoque combina:
+
+- Claridad en la estructura del proyecto
+- Código mantenible
+- Interfaces limpias
+- Documentación útil
+- Automatización cuando aporta valor
+- Soluciones reales, no solo demos lindas para la vidriera
+
+Porque una app puede tener mucho brillo, pero si no resuelve nada... es decoración con deploy.
+
+---
+
+## 💬 Frase personal
+
+> *"No espero tener las condiciones perfectas para empezar — construyo las herramientas que necesito y avanzo."*
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-matias.frutos@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.frutos@outlook.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-matiasfrutos.site-2496ED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://matiasfrutos.site/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/matiasfrutos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasfrutos)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MatiasFrutos&color=2496ED&style=for-the-badge&label=Visitas+al+perfil)
+
+<br>
+
+### Gracias por visitar mi perfil 👋
+
+**ZERNYX Tech Studio · Software útil, moderno y con propósito**
+
+</div>
