@@ -1,62 +1,116 @@
+<!-- =========================================================
+     GitHub Profile README
+     Matias Isaac Frutos Gonzalez · ZERNYX Tech Studio
+     ========================================================= -->
 
+<div align="center">
 
 # 👋 Hola, soy Matias Isaac Frutos Gonzalez
 
-### Full Stack Developer · Fundador de Zernyx Tech Studio · Buenos Aires 🇦🇷
+### Full Stack Developer · Técnico Electrónico · Fundador de ZERNYX Tech Studio
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;T%C3%A9cnico+Electr%C3%B3nico;Fundador+de+Zernyx+Tech+Studio+%E2%9A%A1;DevOps+%7C+Backend+%7C+Frontend;Python+%7C+C%23+%7C+JavaScript+%7C+TypeScript;Docker+%7C+MongoDB+%7C+PostgreSQL;Node.js+%7C+Angular+%7C+Flask;Construyo+herramientas+que+resuelven+problemas+%F0%9F%9A%80)
+📍 Buenos Aires, Argentina  
+🚀 Construyo herramientas de software para productividad, automatización, sistemas e integración con IA.
 
+<br>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2496ED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;T%C3%A9cnico+Electr%C3%B3nico;Fundador+de+ZERNYX+Tech+Studio;Backend+%7C+Frontend+%7C+DevOps;Python+%7C+C%23+%7C+JavaScript+%7C+TypeScript;Docker+%7C+PostgreSQL+%7C+MongoDB;Node.js+%7C+Angular+%7C+Flask;Construyo+software+real+para+problemas+reales)
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-matiasfrutos.site-2496ED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.matiasfrutos.site/)
+[![Email](https://img.shields.io/badge/Email-matias.frutos@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.frutos@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias_Frutos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasfrutos)
+[![GitHub](https://img.shields.io/badge/GitHub-MatiasFrutos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatiasFrutos)
+
+</div>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy desarrollador Full Stack apasionado por crear software útil desde cero. Me muevo cómodo tanto en el backend como en el frontend, y disfruto especialmente de construir herramientas que resuelven problemas reales.
+Soy desarrollador **Full Stack** y Técnico Electrónico, enfocado en crear software útil, claro y aplicable a escenarios reales.
 
-Fundé **[Zernyx Tech Studio](https://github.com/MatiasFrutos)**, un emprendimiento propio donde desarrollo proyectos orientados a la productividad, la automatización y la administración de sistemas.
+Me gusta construir proyectos desde cero, combinando backend, frontend, automatización, bases de datos, herramientas de sistema e integración con inteligencia artificial.
 
-- 🏢 Fundador de **Zernyx Tech Studio**
-- 🔭 Construyendo herramientas de sistema, automatizaciones y apps web
-- 🌱 Aprendiendo **Docker · Integración de IA · C# avanzado · MongoDB**
-- 📍 Buenos Aires, Argentina
-- 📫 Contacto: **matias.frutos@outlook.com**
-- 🌐 Portfolio: **[matiasfrutos.site](https://www.matiasfrutos.site/)**
+Fundé **ZERNYX Tech Studio**, un espacio donde desarrollo soluciones orientadas a productividad, administración, mantenimiento de sistemas, automatización y herramientas para usuarios técnicos y empresas.
 
----
+Actualmente estoy trabajando en proyectos relacionados con:
 
-## 🛠️ Tecnologías
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- 🧩 Aplicaciones web modernas
+- ⚙️ Herramientas de automatización
+- 🖥️ Utilidades para Windows y sistemas
+- 🗄️ Bases de datos y paneles administrativos
+- 🤖 Integración de IA local con Ollama
+- 🚀 Soluciones propias bajo la marca ZERNYX
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## ⚡ ZERNYX Tech Studio
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![C#](https://img.shields.io/badge/C%23_Avanzado-68217A?style=flat&logo=csharp&logoColor=white)
-![AI](https://img.shields.io/badge/Integración_de_IA-FF6F00?style=flat&logo=openai&logoColor=white)
+> **ZERNYX Tech Studio** es mi marca personal de desarrollo de software.  
+> Desde ahí construyo herramientas enfocadas en productividad, automatización, administración de sistemas y soluciones digitales modernas.
+
+La idea es simple:  
+**crear software que no sea solo lindo, sino útil, mantenible y con propósito.**
 
 ---
 
-## ⚡ Zernyx Tech Studio
+## 🛠️ Stack tecnológico
 
-> Emprendimiento propio enfocado en el desarrollo de herramientas de software para productividad, automatización y administración de sistemas. Todos los proyectos ZERNYX nacen acá.
+<div align="center">
+
+### Lenguajes
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend y bases de datos
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps y herramientas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Inteligencia artificial
+
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
+![AI](https://img.shields.io/badge/Integraci%C3%B3n_de_IA-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 🌱 Actualmente aprendiendo y mejorando
+
+Estoy profundizando en tecnologías y prácticas orientadas a construir software más robusto, escalable y profesional:
+
+- 🐳 Docker y despliegues en VPS
+- 🧠 Integración de IA local con Ollama
+- 🗄️ PostgreSQL avanzado
+- 🧱 Arquitecturas backend con Node.js y Express
+- 🖥️ Aplicaciones desktop con C# y .NET
+- 🎨 Interfaces modernas con HTML, CSS y JavaScript
+- 🔐 Seguridad básica para aplicaciones web y APIs
 
 ---
 
@@ -64,107 +118,53 @@ Fundé **[Zernyx Tech Studio](https://github.com/MatiasFrutos)**, un emprendimie
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [🗄 ZERNYX-Backup-Tool](https://github.com/MatiasFrutos/ZERNYX-Backup-Tool) | Herramienta para hacer copias de seguridad de carpetas y archivos de forma automática | C#, .NET |
-| [🪟 window-tool](https://github.com/MatiasFrutos/window-tool) | Suite de ajustes para Windows: salud del disco, limpieza de temporales y más. Corre como admin | Python, CLI |
-| [📁 ZERNYX-File-Organizer](https://github.com/MatiasFrutos/ZERNYX-File-Organizer) | Organiza automáticamente cualquier carpeta clasificando archivos por tipo en segundos | Python |
-| [🔍 ZERNYX-Network-Scanner](https://github.com/MatiasFrutos/ZERNYX-Network-Scanner) | Escanea tu red local y lista todos los dispositivos conectados con sus IPs | Batch |
-| [🖥 ZERNYX-TechConsole](https://github.com/MatiasFrutos/ZERNYX-TechConsole) | Consola de administración para Windows con ajustes y mantenimiento del sistema | Batch |
-| [🧮 ZERNYX-Advanced-Calculator](https://github.com/MatiasFrutos/ZERNYX-Advanced-Calculator) | Calculadora avanzada con operaciones extendidas | C#, .NET |
+| [🧠 StackForge](https://github.com/MatiasFrutos/StackForge) | IDE visual, moderno e interactivo para programar en Forth. Permite escribir código y visualizar en tiempo real el comportamiento de la pila de datos. | HTML, CSS, JavaScript |
+| [🗄 ZERNYX-Backup-Tool](https://github.com/MatiasFrutos/ZERNYX-Backup-Tool) | Herramienta para realizar copias de seguridad de carpetas y archivos de forma automática. | C#, .NET |
+| [🪟 window-tool](https://github.com/MatiasFrutos/window-tool) | Suite de ajustes para Windows: salud del disco, limpieza de temporales y mantenimiento básico del sistema. | Python, CLI |
+| [📁 ZERNYX-File-Organizer](https://github.com/MatiasFrutos/ZERNYX-File-Organizer) | Organizador automático de archivos por tipo, pensado para ordenar carpetas en segundos. | Python |
+| [🖥 ZERNYX-TechConsole](https://github.com/MatiasFrutos/ZERNYX-TechConsole) | Consola de administración para Windows con herramientas de mantenimiento y ajustes del sistema. | Batch |
+| [🧮 ZERNYX-Advanced-Calculator](https://github.com/MatiasFrutos/ZERNYX-Advanced-Calculator) | Calculadora avanzada con operaciones extendidas y enfoque práctico. | C#, .NET |
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Proyecto destacado: StackForge
 
+<div align="center">
 
+### StackForge  
+#### IDE visual para aprender y programar en Forth
 
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatiasFrutos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/MatiasFrutos)
+**StackForge** es un IDE visual, moderno e interactivo para programar en **Forth**, desarrollado por **Matías Isaac Frutos Gonzales** para **ZERNYX Tech Studio**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasFrutos&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MatiasFrutos)
+El proyecto transforma la experiencia clásica de Forth —normalmente asociada a terminales simples— en una herramienta visual, educativa y moderna, donde el usuario puede escribir código y ver en tiempo real cómo se mueve la pila de datos.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MatiasFrutos&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### Objetivo del proyecto
 
+StackForge busca hacer que Forth sea más fácil de entender, visualizar y practicar, especialmente para estudiantes, curiosos de lenguajes basados en pila y desarrolladores que quieran experimentar con una interfaz más clara.
 
+### Características principales
 
-
----
-
-## 💬 Frase
-
-> *"No espero tener las condiciones perfectas para empezar — construyo las herramientas que necesito y avanzo."*
-
----
-
-## 📜 Certificaciones
-
-### 🐍 Python / Backend
-| Certificado | Institución | Año |
-|---|---|---|
-| Desarrollador Python | Edutin Academy | 2026 |
-| Certificación en Programación Python | PythonX | 2025 |
-| Principios de Inteligencia Artificial | Digital House | 2025 |
-| Back End en Java | Digital House | 2025 |
-| React Developer | Digital House | 2025 |
-| Lógica de programación con Scratch | Digital House | 2025 |
-
-### 🌐 Web / Frontend
-| Certificado | Institución | Año |
-|---|---|---|
-| Curso de introducción al desarrollo web: HTML y CSS | Google | 2025 |
-| Aprende HTML y CSS desde cero con freeCodeCamp | Cursa | 2025 |
-| Introducción al código | Google | 2025 |
-| Introducción al mundo web | EducacionIT | 2025 |
-
-### 🗄️ Data / Bases de datos
-| Certificado | Institución | Año |
-|---|---|---|
-| Data Base Analyst | Digital House | 2025 |
-| Data Skills | Digital House | 2025 |
-| Aprende SQL ahora con Hola Mundo Dev | Cursa | 2025 |
-
-### 🔐 Seguridad / QA
-| Certificado | Institución | Año |
-|---|---|---|
-| Introducción al mundo de la Seguridad Informática | EducacionIT | 2025 |
-| Testing QA Automatizado | Digital House | 2025 |
-
-### ⚙️ DevOps
-| Certificado | Institución | Año |
-|---|---|---|
-| DevOps Engineer | Digital House | 2025 |
-| Introducción al lenguaje de Programación | EducacionIT | 2025 |
-
-### 🎨 Gestión / Diseño / Soft Skills
-| Certificado | Institución | Año |
-|---|---|---|
-| Digital Product Management | Digital House | 2025 |
-| Web Designer | Digital House | 2025 |
-| Fundamentos del Diseño Gráfico | EducacionIT | 2025 |
-| Soft Skills Trainings | Digital House | 2025 |
-| Talent Space | Digital House | 2025 |
-
-### 🔧 Hardware / Electrónica
-| Certificado | Institución | Año |
-|---|---|---|
-| Diagnóstico de fusileras electrónicas | FAATRA | 2018 |
-| UPS Eaton 93T — Sistemas de Energía Ininterrumpida | Eaton / Sieco S.A. | 2025 |
-
-
-
+- 🧱 Editor visual para código Forth
+- 📚 Visualización de la pila en tiempo real
+- ⚡ Interfaz moderna e interactiva
+- 🎯 Enfoque educativo
+- 🧠 Ideal para comprender lenguajes basados en pila
+- 🎨 Diseño web limpio, moderno y responsive
 
 ---
 
+## 📌 Áreas de interés
 
-## 📫 Contacto
-
-[![Email](https://img.shields.io/badge/Email-matias.frutos@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matias.frutos@outlook.com)
-[![CV](https://img.shields.io/badge/CV-matiasfrutos.site-2496ED?style=flat&logo=google-chrome&logoColor=white)](https://matiasfrutos.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/matiasfrutos-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matiasfrutos)
-
----
-
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=MatiasFrutos&color=2496ED&style=flat&label=Visitas+al+perfil)
-
+```txt
+Backend Development
+Frontend Development
+Desktop Apps
+Automation Tools
+System Utilities
+Local AI Integration
+Database Design
+DevOps Basics
+Technical Support Tools
+Business Software
