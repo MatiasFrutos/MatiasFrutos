@@ -1,20 +1,20 @@
 <!-- =========================================================
      GitHub Profile README
-     Matias Isaac Frutos Gonzalez · ZERNYX Tech Studio
+     Matias Isaac Frutos Gonzalez
      ========================================================= -->
 
 <div align="center">
 
 # 👋 Hola, soy Matias Isaac Frutos Gonzalez
 
-### Full Stack Developer · Técnico Electrónico · Fundador de ZERNYX Tech Studio
+### Full Stack Developer · Técnico Electrónico
 
 📍 Buenos Aires, Argentina  
-🚀 Construyo herramientas de software para productividad, automatización, sistemas e integración con IA.
+💻 Desarrollo herramientas de software, automatización y soluciones prácticas para problemas reales.
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2496ED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;T%C3%A9cnico+Electr%C3%B3nico;Fundador+de+ZERNYX+Tech+Studio;Backend+%7C+Frontend+%7C+DevOps;Python+%7C+C%23+%7C+JavaScript+%7C+TypeScript;Docker+%7C+PostgreSQL+%7C+MongoDB;Node.js+%7C+Angular+%7C+Flask;Construyo+software+real+para+problemas+reales)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2496ED&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;T%C3%A9cnico+Electr%C3%B3nico;Backend+%7C+Frontend+%7C+Bases+de+datos;Python+%7C+C%23+%7C+JavaScript+%7C+TypeScript;Node.js+%7C+Angular+%7C+PostgreSQL;Automatizaci%C3%B3n+%7C+Sistemas+%7C+Herramientas+internas;Aprendiendo+y+mejorando+todos+los+d%C3%ADas)
 
 <br>
 
@@ -29,30 +29,20 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy desarrollador **Full Stack** y Técnico Electrónico, enfocado en crear software útil, claro y aplicable a escenarios reales.
+Soy desarrollador **Full Stack** y **Técnico Electrónico**. Me interesa construir soluciones útiles, claras y mantenibles, combinando software, automatización, bases de datos y experiencia técnica.
 
-Me gusta construir proyectos desde cero, combinando backend, frontend, automatización, bases de datos, herramientas de sistema e integración con inteligencia artificial.
+Vengo de un perfil técnico bastante práctico: diagnóstico, mantenimiento, soporte, sistemas, electrónica y desarrollo. Con el tiempo fui llevando esa experiencia al software, creando herramientas internas, paneles administrativos, utilidades para Windows, automatizaciones y aplicaciones web.
 
-Fundé **ZERNYX Tech Studio**, un espacio donde desarrollo soluciones orientadas a productividad, administración, mantenimiento de sistemas, automatización y herramientas para usuarios técnicos y empresas.
+Me gusta aprender haciendo. No busco vender humo ni mostrar algo que no soy. Este perfil es simplemente una forma de ordenar mis proyectos, mostrar lo que voy construyendo y compartir mi evolución como desarrollador.
 
-Actualmente estoy trabajando en proyectos relacionados con:
+Actualmente me enfoco en:
 
 - 🧩 Aplicaciones web modernas
-- ⚙️ Herramientas de automatización
-- 🖥️ Utilidades para Windows y sistemas
+- ⚙️ Automatización de procesos
+- 🖥️ Herramientas para Windows y sistemas
 - 🗄️ Bases de datos y paneles administrativos
-- 🤖 Integración de IA local con Ollama
-- 🚀 Soluciones propias bajo la marca ZERNYX
-
----
-
-## ⚡ ZERNYX Tech Studio
-
-> **ZERNYX Tech Studio** es mi marca personal de desarrollo de software.  
-> Desde ahí construyo herramientas enfocadas en productividad, automatización, administración de sistemas y soluciones digitales modernas.
-
-La idea es simple:  
-**crear software que no sea solo lindo, sino útil, mantenible y con propósito.**
+- 🤖 Integración de IA en flujos reales
+- 🔧 Soluciones prácticas para uso técnico y empresarial
 
 ---
 
@@ -83,7 +73,7 @@ La idea es simple:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps y herramientas
+### Herramientas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -94,7 +84,7 @@ La idea es simple:
 ### Inteligencia artificial
 
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
-![AI](https://img.shields.io/badge/Integraci%C3%B3n_de_IA-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/IA-Aplicada_a_herramientas-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -102,7 +92,7 @@ La idea es simple:
 
 ## 🌱 Actualmente aprendiendo y mejorando
 
-Estoy profundizando en tecnologías y prácticas orientadas a construir software más robusto, escalable y profesional:
+Estoy profundizando en tecnologías y prácticas para desarrollar software más ordenado, seguro y mantenible:
 
 - 🐳 Docker y despliegues en VPS
 - 🧠 Integración de IA local con Ollama
@@ -111,6 +101,7 @@ Estoy profundizando en tecnologías y prácticas orientadas a construir software
 - 🖥️ Aplicaciones desktop con C# y .NET
 - 🎨 Interfaces modernas con HTML, CSS y JavaScript
 - 🔐 Seguridad básica para aplicaciones web y APIs
+- 🧪 Pruebas, documentación y mejora continua
 
 ---
 
@@ -119,11 +110,10 @@ Estoy profundizando en tecnologías y prácticas orientadas a construir software
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [🧠 StackForge](https://github.com/MatiasFrutos/StackForge) | IDE visual, moderno e interactivo para programar en Forth. Permite escribir código y visualizar en tiempo real el comportamiento de la pila de datos. | HTML, CSS, JavaScript |
-| [🗄 ZERNYX-Backup-Tool](https://github.com/MatiasFrutos/ZERNYX-Backup-Tool) | Herramienta para realizar copias de seguridad de carpetas y archivos de forma automática. | C#, .NET |
 | [🪟 window-tool](https://github.com/MatiasFrutos/window-tool) | Suite de ajustes para Windows: salud del disco, limpieza de temporales y mantenimiento básico del sistema. | Python, CLI |
-| [📁 ZERNYX-File-Organizer](https://github.com/MatiasFrutos/ZERNYX-File-Organizer) | Organizador automático de archivos por tipo, pensado para ordenar carpetas en segundos. | Python |
-| [🖥 ZERNYX-TechConsole](https://github.com/MatiasFrutos/ZERNYX-TechConsole) | Consola de administración para Windows con herramientas de mantenimiento y ajustes del sistema. | Batch |
-| [🧮 ZERNYX-Advanced-Calculator](https://github.com/MatiasFrutos/ZERNYX-Advanced-Calculator) | Calculadora avanzada con operaciones extendidas y enfoque práctico. | C#, .NET |
+| [📁 File Organizer](https://github.com/MatiasFrutos/ZERNYX-File-Organizer) | Organizador automático de archivos por tipo, pensado para ordenar carpetas en segundos. | Python |
+| [🖥 Tech Console](https://github.com/MatiasFrutos/ZERNYX-TechConsole) | Consola de administración para Windows con herramientas de mantenimiento y ajustes del sistema. | Batch |
+| [🧮 Advanced Calculator](https://github.com/MatiasFrutos/ZERNYX-Advanced-Calculator) | Calculadora avanzada con operaciones extendidas y enfoque práctico. | C#, .NET |
 
 ---
 
@@ -136,13 +126,13 @@ Estoy profundizando en tecnologías y prácticas orientadas a construir software
 
 </div>
 
-**StackForge** es un IDE visual, moderno e interactivo para programar en **Forth**, desarrollado por **Matías Isaac Frutos Gonzales** para **ZERNYX Tech Studio**.
+**StackForge** es un proyecto personal que desarrollé para experimentar con una forma más visual de aprender y programar en **Forth**.
 
-El proyecto transforma la experiencia clásica de Forth —normalmente asociada a terminales simples— en una herramienta visual, educativa y moderna, donde el usuario puede escribir código y ver en tiempo real cómo se mueve la pila de datos.
+La idea principal es simple: escribir código y poder ver cómo se comporta la pila de datos en tiempo real. Forth suele trabajarse desde entornos muy simples o de terminal, por eso el objetivo fue llevarlo a una interfaz más clara, moderna y educativa.
 
 ### Objetivo del proyecto
 
-StackForge busca hacer que Forth sea más fácil de entender, visualizar y practicar, especialmente para estudiantes, curiosos de lenguajes basados en pila y desarrolladores que quieran experimentar con una interfaz más clara.
+Crear una herramienta que ayude a entender mejor cómo funciona un lenguaje basado en pila, especialmente para estudiantes, curiosos o desarrolladores que quieran experimentar con una interfaz más amigable.
 
 ### Características principales
 
@@ -189,16 +179,16 @@ StackForge busca hacer que Forth sea más fácil de entender, visualizar y pract
       Herramientas para diagnóstico, mantenimiento y administración de sistemas.
     </td>
     <td align="center" width="220">
-      <img src="https://img.shields.io/badge/Local_AI-Integration-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-Integration-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
       <br>
-      Integración de modelos locales, asistentes internos y flujos con IA.
+      Integración de IA en herramientas internas, asistentes y flujos de trabajo.
     </td>
   </tr>
   <tr>
     <td align="center" width="220">
       <img src="https://img.shields.io/badge/Database-Design-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
       <br>
-      Modelado de datos, consultas, estructuras SQL y persistencia.
+      Modelado de datos, consultas SQL, estructuras y persistencia.
     </td>
     <td align="center" width="220">
       <img src="https://img.shields.io/badge/DevOps-Basics-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -217,32 +207,25 @@ StackForge busca hacer que Forth sea más fácil de entender, visualizar y pract
 
 ---
 
-## 🧭 Enfoque profesional
+## 🧭 Forma de trabajo
 
-<div align="center">
+Me gusta trabajar con una mentalidad práctica: primero entender el problema, después construir una versión funcional y luego mejorarla.
 
-<table>
-  <tr>
-    <td align="center" width="250">
-      <h3>🔍 Analizar</h3>
-      <p>Entender el problema antes de escribir código.</p>
-    </td>
-    <td align="center" width="250">
-      <h3>🧱 Construir</h3>
-      <p>Crear una base funcional, clara y mantenible.</p>
-    </td>
-    <td align="center" width="250">
-      <h3>🚀 Mejorar</h3>
-      <p>Iterar, optimizar y llevar el proyecto a un nivel más profesional.</p>
-    </td>
-  </tr>
-</table>
+Mi enfoque suele ser:
 
-</div>
+- Analizar el problema antes de escribir código
+- Priorizar una base funcional
+- Mantener una estructura clara
+- Evitar complicar de más lo que puede resolverse simple
+- Documentar lo necesario
+- Automatizar cuando realmente aporta valor
+- Mejorar con cada iteración
+
+No todo tiene que ser perfecto desde el día uno. Pero sí tiene que avanzar, funcionar y dejar una base ordenada para seguir creciendo.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Resumen técnico
 
 <div align="center">
 
@@ -250,7 +233,7 @@ StackForge busca hacer que Forth sea más fácil de entender, visualizar y pract
   <tr>
     <td align="center" width="260">
       <h3>🚀 Proyectos</h3>
-      <p>Herramientas propias, utilidades de sistema, apps web y soluciones bajo ZERNYX.</p>
+      <p>Herramientas propias, utilidades de sistema, aplicaciones web y pruebas técnicas.</p>
     </td>
     <td align="center" width="260">
       <h3>🧠 Stack</h3>
@@ -267,31 +250,15 @@ StackForge busca hacer que Forth sea más fácil de entender, visualizar y pract
 
 ![Repos](https://img.shields.io/badge/Repositorios-Proyectos_activos-2496ED?style=for-the-badge&logo=github&logoColor=white)
 ![Code](https://img.shields.io/badge/C%C3%B3digo-En_constante_mejora-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![ZERNYX](https://img.shields.io/badge/ZERNYX-Tech_Studio-111827?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Learning](https://img.shields.io/badge/Aprendizaje-Continuo-10B981?style=for-the-badge&logo=readme&logoColor=white)
 
 </div>
----
-
-## 🧩 Forma de trabajo
-
-Me gusta trabajar con una mentalidad práctica: entender el problema, diseñar una solución simple, construir una primera versión funcional y luego mejorarla.
-
-Mi enfoque combina:
-
-- Claridad en la estructura del proyecto
-- Código mantenible
-- Interfaces limpias
-- Documentación útil
-- Automatización cuando aporta valor
-- Soluciones reales, no solo demos lindas para la vidriera
-
-Porque una app puede tener mucho brillo, pero si no resuelve nada... es decoración con deploy.
 
 ---
 
 ## 💬 Frase personal
 
-> *"No espero tener las condiciones perfectas para empezar — construyo las herramientas que necesito y avanzo."*
+> *"No espero tener todo perfecto para empezar. Prefiero construir, aprender, corregir y seguir avanzando."*
 
 ---
 
@@ -317,6 +284,6 @@ Porque una app puede tener mucho brillo, pero si no resuelve nada... es decoraci
 
 ### Gracias por visitar mi perfil 👋
 
-**ZERNYX Tech Studio · Software útil, moderno y con propósito**
+**Software útil, claro y pensado para resolver problemas reales.**
 
 </div>
