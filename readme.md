@@ -126,6 +126,7 @@ Estoy profundizando en tecnologías y prácticas para desarrollar software más 
 [![Repo](https://img.shields.io/badge/Repositorio-API_WATCHTOWER-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatiasFrutos/API-WATCHTOWER)
 ![Status](https://img.shields.io/badge/Status-MVP_Functional-22C55E?style=for-the-badge)
 ![Desktop](https://img.shields.io/badge/Desktop-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Backend](https://img.shields.io/badge/Backend-Node.js_%2B_Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Storage](https://img.shields.io/badge/Storage-Local_JSON-2563EB?style=for-the-badge&logo=json&logoColor=white)
 
