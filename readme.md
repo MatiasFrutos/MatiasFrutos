@@ -8,7 +8,7 @@
 # 👋 Hola, soy Matias Isaac Frutos Gonzalez
 
 ### Full Stack Developer · Técnico Electrónico
-
+<img src="./cat.gif" width="400" alt="cat">
 📍 Buenos Aires, Argentina  
 💻 Desarrollo herramientas de software, automatización y soluciones prácticas para problemas reales.
 
