@@ -30,7 +30,7 @@ $ whoami --verbose
 ║  ▸ ROL       │ Full Stack Developer · Técnico Electrónico           ║
 ║  ▸ UBICACIÓN │ Buenos Aires, Argentina                              ║
 ║  ▸ FOCO      │ Backend · Desktop · Automatización · IA local · BD   ║
-║  ▸ ORIGEN    │ Hardware + software: diagnóstico, electrónica, soporte║
+║  ▸ ORIGEN    │ Hardware + software: diagnóstico y soporte         ║
 ║  ▸ MÉTODO    │ Problema real → MVP → arquitectura clara → iterar    ║
 ║  ▸ STATUS    │ ● ONLINE · construyendo y mejorando cada día         ║
 ║                                                                      ║
