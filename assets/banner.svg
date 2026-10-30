@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05060F"/><stop offset="0.5" stop-color="#0B0720"/><stop offset="1" stop-color="#14041A"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00F0FF"/><stop offset="0.5" stop-color="#7C3AED"/><stop offset="1" stop-color="#FF2E97"/>
+      <animate attributeName="x1" values="0;-1;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#7C3AED" stroke-opacity="0.18" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00F0FF" stop-opacity="0"/><stop offset="0.5" stop-color="#00F0FF" stop-opacity="0.22"/><stop offset="1" stop-color="#00F0FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orbA"><stop offset="0" stop-color="#00F0FF" stop-opacity="0.35"/><stop offset="1" stop-color="#00F0FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbB"><stop offset="0" stop-color="#FF2E97" stop-opacity="0.35"/><stop offset="1" stop-color="#FF2E97" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1000" height="280" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#grid)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="40 40" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="150" cy="60" r="180" fill="url(#orbA)">
+      <animate attributeName="cx" values="150;300;150" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="230" r="200" fill="url(#orbB)">
+      <animate attributeName="cx" values="860;700;860" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="0" y="-80" width="1000" height="80" fill="url(#scan)">
+      <animate attributeName="y" values="-80;280" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+    <g fill="#00F0FF">
+      <circle cx="90" cy="220" r="2"><animate attributeName="cy" values="260;20" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="260" cy="250" r="1.5"><animate attributeName="cy" values="270;10" dur="9s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="9s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="540" cy="260" r="2"><animate attributeName="cy" values="280;0" dur="8s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="8s" begin="2s" repeatCount="indefinite"/></circle>
+    </g>
+    <g fill="#FF2E97">
+      <circle cx="730" cy="240" r="2"><animate attributeName="cy" values="270;10" dur="6s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6s" begin="0.5s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="250" r="1.5"><animate attributeName="cy" values="270;10" dur="10s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="10s" begin="3s" repeatCount="indefinite"/></circle>
+      <circle cx="420" cy="250" r="1.5"><animate attributeName="cy" values="270;10" dur="11s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="11s" begin="4s" repeatCount="indefinite"/></circle>
+    </g>
+    <g font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" text-anchor="middle">
+      <text x="500" y="62" font-size="14" fill="#00F0FF" letter-spacing="6" opacity="0.85">// SYSTEM ONLINE · v2026
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+      </text>
+      <text x="500" y="145" font-size="68" font-weight="700" fill="url(#neon)" filter="url(#glow)" letter-spacing="4">MATÍAS FRUTOS</text>
+      <text x="500" y="190" font-size="18" fill="#C9D1FF" letter-spacing="3">FULL STACK DEV  ·  TÉCNICO ELECTRÓNICO</text>
+      <text x="500" y="225" font-size="13" fill="#7C86B8" letter-spacing="2">NODE · ELECTRON · POSTGRES · IA LOCAL
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+    <rect x="1" y="1" width="998" height="278" rx="17" fill="none" stroke="url(#neon)" stroke-width="2"/>
+    <g stroke="#00F0FF" stroke-width="2" fill="none" opacity="0.9">
+      <path d="M20 44V20H44"/><path d="M956 20H980V44"/><path d="M20 236V260H44"/><path d="M956 260H980V236"/>
+    </g>
+  </g>
+</svg>

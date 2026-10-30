@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF2E97&height=190&section=header&text=MAT%C3%8DAS%20FRUTOS&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=//%20FULL%20STACK%20DEV%20%C2%B7%20T%C3%89CNICO%20ELECTR%C3%93NICO&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header">
+<img src="./assets/banner.svg" width="100%" alt="Matías Frutos">
 
 <img src="./cat.gif" width="400" alt="cat">
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=50&lines=%3E+boot+sequence+iniciada...;%3E+Full+Stack+Developer+%7C+T%C3%A9cnico+Electr%C3%B3nico;%3E+Node.js+%7C+Express+%7C+PostgreSQL+%7C+Docker;%3E+Electron+%7C+Python+%7C+C%23+%7C+TypeScript;%3E+Automatizaci%C3%B3n+%7C+APIs+%7C+IA+local+con+Ollama;%3E+Local-first+%7C+Simple+%7C+Mantenible)](https://git.io/typing-svg)
+
+<br>
+
+<img src="./assets/terminal.svg" width="85%" alt="boot sequence">
 
 <br>
 
@@ -17,7 +21,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7C3AED&height=2&section=header" width="100%" alt="divider">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 ## `> SYSTEM.IDENTITY`  ![status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=flat-square&labelColor=0D1117)
 
@@ -41,7 +45,7 @@ $ _
 
 Vengo de un perfil técnico práctico (electrónica, diagnóstico, mantenimiento y soporte) y lo llevé al software: herramientas internas, paneles administrativos, utilidades para Windows, automatizaciones y aplicaciones web. Prefiero software útil, claro y mantenible antes que complejidad innecesaria.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7C3AED&height=2&section=header" width="100%" alt="divider">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 ## `> TECH.STACK`
 
@@ -67,7 +71,7 @@ Docker / VPS             [█████░░░░░] EN PROGRESO   Desplieg
 Ollama / IA local        [█████░░░░░] EN PROGRESO   Integración en flujos reales
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7C3AED&height=2&section=header" width="100%" alt="divider">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 ## `> CORE.PRINCIPLES`
 
@@ -81,7 +85,7 @@ Ollama / IA local        [█████░░░░░] EN PROGRESO   Integrac
 07 ▸ Iterar: cada versión deja una base más sólida
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7C3AED&height=2&section=header" width="100%" alt="divider">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 ## `> WORK.MODULES`
 
@@ -97,7 +101,68 @@ Ollama / IA local        [█████░░░░░] EN PROGRESO   Integrac
 | 🗄️ **Bases de datos** | Modelado, SQL, estructuras y persistencia |
 | 🏢 **Software de negocio** | Sistemas administrativos, ERP/CRM, paneles internos |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7C3AED&height=2&section=header" width="100%" alt="divider">
+<img src="./assets/divider.svg" width="100%" alt="divider">
+
+## `> LIVE.TELEMETRY`
+
+<div align="center">
+
+<a href="https://github.com/MatiasFrutos"><img height="180" src="https://github-readme-stats.vercel.app/api?username=MatiasFrutos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1FF&ring_color=7C3AED&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"></a>
+<a href="https://github.com/MatiasFrutos"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasFrutos&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1FF" alt="top langs"></a>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=MatiasFrutos&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=C9D1FF&currStreakNum=00F0FF&sideNums=C9D1FF&dates=7C86B8" alt="streak">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatiasFrutos&bg_color=0D1117&color=00F0FF&line=7C3AED&point=FF2E97&area=true&area_color=7C3AED&hide_border=true&custom_title=Actividad%20%C2%B7%20%C3%BAltimos%2031%20d%C3%ADas" alt="activity graph">
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
+
+## `> FEATURED.PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/MatiasFrutos/Aurelius-IDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Aurelius-IDE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1FF" alt="Aurelius-IDE"></a>
+<a href="https://github.com/MatiasFrutos/Morpheus-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Morpheus-Note&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1FF" alt="Morpheus-Note"></a>
+<a href="https://github.com/MatiasFrutos/API-WATCHTOWER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=API-WATCHTOWER&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1FF" alt="API-WATCHTOWER"></a>
+<a href="https://github.com/MatiasFrutos/SQLMind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=SQLMind&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1FF" alt="SQLMind"></a>
+<a href="https://github.com/MatiasFrutos/DBPilot-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=DBPilot-Studio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1FF" alt="DBPilot-Studio"></a>
+<a href="https://github.com/MatiasFrutos/Port-Watcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Port-Watcher&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1FF" alt="Port-Watcher"></a>
+
+</div>
+
+<details>
+<summary><b>▸ Ver más proyectos</b></summary>
+
+| Proyecto | Descripción |
+|---|---|
+| [**Hermes-Drop**](https://github.com/MatiasFrutos/Hermes-Drop) | Transferencia y envío rápido de archivos |
+| [**Heraclitus-Trace**](https://github.com/MatiasFrutos/Heraclitus-Trace) | Trazabilidad y seguimiento |
+| [**SheetPilot**](https://github.com/MatiasFrutos/SheetPilot) | Automatización de planillas |
+| [**DataCleaner-Pro**](https://github.com/MatiasFrutos/DataCleaner-Pro) | Limpieza y normalización de datos |
+| [**Configlens**](https://github.com/MatiasFrutos/Configlens) | Inspección de configuraciones |
+| [**stackforge**](https://github.com/MatiasFrutos/stackforge) | Generación de stacks de proyecto |
+| [**ZERNYX Suite**](https://github.com/MatiasFrutos?tab=repositories&q=ZERNYX) | Colección de utilidades de escritorio y sistemas |
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
+
+## `> CONTRIBUTION.SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatiasFrutos/MatiasFrutos/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatiasFrutos/MatiasFrutos/output/github-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/MatiasFrutos/MatiasFrutos/output/github-snake-dark.svg">
+</picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MatiasFrutos&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies">
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 ## `> LOADING...`
 
@@ -112,7 +177,7 @@ Ollama / IA local        [█████░░░░░] EN PROGRESO   Integrac
 - [PENDIENTE] Testing, documentación y mejora continua
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7C3AED&height=2&section=header" width="100%" alt="divider">
+<img src="./assets/divider.svg" width="100%" alt="divider">
 
 ## `> CONTACT.OPEN_CHANNEL`
 
@@ -121,6 +186,10 @@ Ollama / IA local        [█████░░░░░] EN PROGRESO   Integrac
 [![Email](https://img.shields.io/badge/EMAIL-matias.frutos@outlook.com-FF2E97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:matias.frutos@outlook.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-matiasfrutos.site-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0D1117)](https://matiasfrutos.site/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-in/matiasfrutos-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/matiasfrutos)
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=00F0FF&author_color=FF2E97" alt="quote" width="85%">
 
 <br>
 
