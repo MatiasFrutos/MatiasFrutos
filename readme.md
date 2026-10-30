@@ -19,17 +19,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7C3AED&height=2&section=header" width="100%" alt="divider">
 
-## `> SYSTEM.IDENTITY`
+## `> SYSTEM.IDENTITY`  ![status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=flat-square&labelColor=0D1117)
 
-```ts
-const matias = {
-  role:       ["Full Stack Developer", "Técnico Electrónico"],
-  location:   "Buenos Aires, Argentina",
-  focus:      ["Backend (Node.js/Express)", "Desktop apps", "Automatización", "IA local", "Bases de datos"],
-  background: "Hardware + software: diagnóstico, electrónica, soporte, sistemas y desarrollo",
-  philosophy: "Resolver un problema real → MVP funcional → arquitectura clara → iterar",
-  status:     "ONLINE · Construyendo, aprendiendo y mejorando todos los días",
-} as const;
+```txt
+$ whoami --verbose
+
+╔═════════════════════┤ matias@frutos ~/identity ├═════════════════════╗
+║                                                                      ║
+║  ▸ NOMBRE    │ Matías Isaac Frutos González                         ║
+║  ▸ ROL       │ Full Stack Developer · Técnico Electrónico           ║
+║  ▸ UBICACIÓN │ Buenos Aires, Argentina                              ║
+║  ▸ FOCO      │ Backend · Desktop · Automatización · IA local · BD   ║
+║  ▸ ORIGEN    │ Hardware + software: diagnóstico y soporte         ║
+║  ▸ MÉTODO    │ Problema real → MVP → arquitectura clara → iterar    ║
+║  ▸ STATUS    │ ● ONLINE · construyendo y mejorando cada día         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+$ _
 ```
 
 Vengo de un perfil técnico práctico (electrónica, diagnóstico, mantenimiento y soporte) y lo llevé al software: herramientas internas, paneles administrativos, utilidades para Windows, automatizaciones y aplicaciones web. Prefiero software útil, claro y mantenible antes que complejidad innecesaria.
