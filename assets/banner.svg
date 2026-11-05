@@ -51,7 +51,7 @@
       </text>
       <text x="500" y="145" font-size="68" font-weight="700" fill="url(#neon)" filter="url(#glow)" letter-spacing="4">MATÍAS FRUTOS</text>
       <text x="500" y="190" font-size="18" fill="#C9D1FF" letter-spacing="3">FULL STACK DEV  ·  TÉCNICO ELECTRÓNICO</text>
-      <text x="500" y="225" font-size="13" fill="#7C86B8" letter-spacing="2">NODE · ELECTRON · POSTGRES · IA LOCAL
+      <text x="500" y="225" font-size="13" fill="#7C86B8" letter-spacing="2">RUST · TAURI · LINUX · NODE · POSTGRES · IA LOCAL
         <animate attributeName="opacity" values="0.5;1;0.5" dur="5s" repeatCount="indefinite"/>
       </text>
     </g>

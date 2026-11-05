@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <defs>
+    <linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F0FF"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#FF2E97"/></linearGradient>
+    <filter id="g" x="-10%" y="-100%" width="120%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>text{font-family:'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace;font-size:14px}.t{fill:#C9D1FF}.v{opacity:0;font-weight:700}.h{fill:#00F0FF;font-size:12px;letter-spacing:3px}</style>
+  </defs>
+  <rect x="1" y="1" width="798" height="418" rx="14" fill="#07091A" stroke="url(#n)" stroke-width="2"/>
+  <text x="30" y="36" class="h">// SKILL.MATRIX · nivel de dominio</text>
+  <text x="30" y="75" class="t">Rust</text>
+  <rect x="270" y="62" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="62" width="0" height="14" rx="7" fill="#00F0FF" filter="url(#g)"><animate attributeName="width" from="0" to="374" dur="1.6s" begin="0.00s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="75" class="v" fill="#00F0FF">85%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.00s" fill="freeze"/></text>
+  <text x="30" y="109" class="t">Tauri</text>
+  <rect x="270" y="96" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="96" width="0" height="14" rx="7" fill="#7C3AED" filter="url(#g)"><animate attributeName="width" from="0" to="352" dur="1.6s" begin="0.15s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="109" class="v" fill="#7C3AED">80%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.15s" fill="freeze"/></text>
+  <text x="30" y="143" class="t">Node.js / Express</text>
+  <rect x="270" y="130" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="130" width="0" height="14" rx="7" fill="#FF2E97" filter="url(#g)"><animate attributeName="width" from="0" to="418" dur="1.6s" begin="0.30s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="143" class="v" fill="#FF2E97">95%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.30s" fill="freeze"/></text>
+  <text x="30" y="177" class="t">JavaScript / TypeScript</text>
+  <rect x="270" y="164" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="164" width="0" height="14" rx="7" fill="#00F0FF" filter="url(#g)"><animate attributeName="width" from="0" to="418" dur="1.6s" begin="0.45s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="177" class="v" fill="#00F0FF">95%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.45s" fill="freeze"/></text>
+  <text x="30" y="211" class="t">PostgreSQL / SQL</text>
+  <rect x="270" y="198" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="198" width="0" height="14" rx="7" fill="#7C3AED" filter="url(#g)"><animate attributeName="width" from="0" to="352" dur="1.6s" begin="0.60s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="211" class="v" fill="#7C3AED">80%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.60s" fill="freeze"/></text>
+  <text x="30" y="245" class="t">Electron</text>
+  <rect x="270" y="232" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="232" width="0" height="14" rx="7" fill="#FF2E97" filter="url(#g)"><animate attributeName="width" from="0" to="352" dur="1.6s" begin="0.75s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="245" class="v" fill="#FF2E97">80%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.75s" fill="freeze"/></text>
+  <text x="30" y="279" class="t">Python</text>
+  <rect x="270" y="266" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="266" width="0" height="14" rx="7" fill="#00F0FF" filter="url(#g)"><animate attributeName="width" from="0" to="352" dur="1.6s" begin="0.90s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="279" class="v" fill="#00F0FF">80%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.90s" fill="freeze"/></text>
+  <text x="30" y="313" class="t">Linux</text>
+  <rect x="270" y="300" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="300" width="0" height="14" rx="7" fill="#7C3AED" filter="url(#g)"><animate attributeName="width" from="0" to="330" dur="1.6s" begin="1.05s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="313" class="v" fill="#7C3AED">75%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.05s" fill="freeze"/></text>
+  <text x="30" y="347" class="t">Docker / VPS</text>
+  <rect x="270" y="334" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="334" width="0" height="14" rx="7" fill="#FF2E97" filter="url(#g)"><animate attributeName="width" from="0" to="242" dur="1.6s" begin="1.20s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="347" class="v" fill="#FF2E97">55%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.20s" fill="freeze"/></text>
+  <text x="30" y="381" class="t">Ollama / IA local</text>
+  <rect x="270" y="368" width="440" height="14" rx="7" fill="#11163A"/>
+  <rect x="270" y="368" width="0" height="14" rx="7" fill="#00F0FF" filter="url(#g)"><animate attributeName="width" from="0" to="242" dur="1.6s" begin="1.35s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1" keyTimes="0;1"/></rect>
+  <text x="730" y="381" class="v" fill="#00F0FF">55%<animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.35s" fill="freeze"/></text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF8A3D"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#00F0FF"/></linearGradient>
+    <style>
+      text{font-family:'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace;font-size:15px;white-space:pre}
+      .l{opacity:0;animation:show 12s infinite}
+      @keyframes show{0%{opacity:0}3%{opacity:1}92%{opacity:1}100%{opacity:0}}
+      .cur{animation:blink 1s steps(2) infinite}@keyframes blink{to{opacity:0}}
+      .gear{transform-origin:830px 90px;animation:spin 10s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
+      .bar{transform-origin:30px 200px;animation:fill 12s infinite}
+      @keyframes fill{0%{transform:scaleX(0)}45%{transform:scaleX(1)}92%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="258" rx="14" fill="#07091A" stroke="url(#n)" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="34" rx="14" fill="#0E1230"/>
+  <circle cx="24" cy="18" r="6" fill="#FF5F56"/><circle cx="46" cy="18" r="6" fill="#FFBD2E"/><circle cx="68" cy="18" r="6" fill="#27C93F"/>
+  <text x="450" y="23" text-anchor="middle" fill="#C9D1FF" style="font-size:12px;opacity:.6">~/projects/linux-app — cargo tauri build</text>
+  <text x="30" y="64" fill="#7C3AED">❯ <tspan fill="#00F0FF">cargo tauri build</tspan></text>
+  <text x="30" y="92" class="l" style="animation-delay:0.4s"><tspan fill="#3DFFA2" font-weight="700"> Compiling</tspan> <tspan fill="#C9D1FF">tauri-app v0.1.0</tspan></text>
+  <text x="30" y="118" class="l" style="animation-delay:1.7000000000000002s"><tspan fill="#3DFFA2" font-weight="700"> Compiling</tspan> <tspan fill="#C9D1FF">core (rust) · release</tspan></text>
+  <text x="30" y="144" class="l" style="animation-delay:3.0s"><tspan fill="#3DFFA2" font-weight="700">  Bundling</tspan> <tspan fill="#C9D1FF">AppImage · .deb · .rpm</tspan></text>
+  <text x="30" y="170" class="l" style="animation-delay:4.300000000000001s"><tspan fill="#3DFFA2" font-weight="700">  Finished</tspan> <tspan fill="#C9D1FF">release [optimized] en 42s</tspan></text>
+  <rect x="30" y="196" width="640" height="10" rx="5" fill="#11163A"/>
+  <rect class="bar" x="30" y="196" width="640" height="10" rx="5" fill="url(#n)"/>
+  <text x="30" y="236" fill="#3DFFA2" class="l" style="animation-delay:5.6s">✔ build listo · bundle generado<tspan fill="#00F0FF" class="cur"> █</tspan></text>
+  <g class="gear" opacity=".9" fill="none" stroke="#FF8A3D" stroke-width="3">
+    <circle cx="830" cy="90" r="22"/><circle cx="830" cy="90" r="8" stroke="#00F0FF"/>
+    <path d="M830 56V46M830 134V124M796 90H786M874 90H864M806 66L799 59M861 121L854 114M854 66L861 59M799 121L806 114"/>
+  </g>
+  <text x="830" y="160" text-anchor="middle" fill="#7C86B8" style="font-size:12px;letter-spacing:2px">RUST · TAURI</text>
+</svg>

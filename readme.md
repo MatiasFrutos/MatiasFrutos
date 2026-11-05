@@ -14,6 +14,10 @@
 
 <br>
 
+<img src="./assets/marquee.svg" width="100%" alt="tecnologías">
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-matiasfrutos.site-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0D1117)](https://www.matiasfrutos.site/)
 [![Email](https://img.shields.io/badge/EMAIL-matias.frutos@outlook.com-FF2E97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:matias.frutos@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-matiasfrutos-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/matiasfrutos)
@@ -47,6 +51,18 @@ Vengo de un perfil técnico práctico (electrónica, diagnóstico, mantenimiento
 
 <img src="./assets/divider.svg" width="100%" alt="divider">
 
+## `> HIGHLIGHTS`
+
+<div align="center">
+
+| 🦀 **Rust + Tauri** | 🐧 **Linux first** | 🏠 **Local-first** | 🧪 **MVP → iterar** |
+|:---:|:---:|:---:|:---:|
+| Apps de escritorio nativas, seguras y livianas | Empaquetado AppImage / .deb / .rpm | Tus datos en tu máquina, sin depender de la nube | Problema real, versión funcional, mejora continua |
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
+
 ## `> TECH.STACK`
 
 | Capa | Tecnologías |
@@ -61,17 +77,11 @@ Vengo de un perfil técnico práctico (electrónica, diagnóstico, mantenimiento
 
 ### `> SKILL.LEVELS`
 
-```txt
-Rust                     [████████░░] DIARIO        Apps nativas, backend de Tauri, CLIs
-Tauri                    [████████░░] DIARIO        Apps desktop livianas para Linux
-Node.js / Express        [██████████] DIARIO        APIs REST, servicios locales, CLIs
-JavaScript / TypeScript  [██████████] DIARIO        Frontend, backend y desktop
-PostgreSQL / SQL         [████████░░] FRECUENTE     Modelado, consultas, paneles administrativos
-Electron                 [████████░░] FRECUENTE     Apps desktop local-first
-Python                   [████████░░] FRECUENTE     Utilidades desktop, automatización, scripts
-Docker / VPS             [█████░░░░░] EN PROGRESO   Despliegues y entornos reproducibles
-Ollama / IA local        [█████░░░░░] EN PROGRESO   Integración en flujos reales
-```
+<div align="center">
+
+<img src="./assets/skills.svg" width="80%" alt="skill matrix">
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="divider">
 
@@ -136,19 +146,19 @@ Ollama / IA local        [█████░░░░░] EN PROGRESO   Integrac
 
 ### `> NOW.BUILDING` &nbsp;![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=00F0FF) ![Tauri](https://img.shields.io/badge/Tauri-0D1117?style=flat-square&logo=tauri&logoColor=7C3AED) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FF2E97)
 
-```txt
-$ cargo tauri build --target linux
+<div align="center">
 
-╔══════════════════┤ linux-apps ~/rust-tauri ├══════════════════╗
-║                                                               ║
-║  ▸ STACK     │ Rust (core) + Tauri (shell) + Web UI           ║
-║  ▸ OBJETIVO  │ Apps nativas, livianas y rápidas para Linux    ║
-║  ▸ EMPAQUE   │ AppImage · .deb · .rpm                         ║
-║  ▸ ENFOQUE   │ Local-first · bajo consumo · UX limpia         ║
-║  ▸ STATUS    │ ● EN DESARROLLO ACTIVO                         ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="./assets/rust-tauri.svg" width="90%" alt="cargo tauri build">
+
+</div>
+
+| | |
+|---|---|
+| **Stack** | Rust (core) + Tauri (shell) + UI web |
+| **Objetivo** | Apps nativas, livianas y rápidas para Linux |
+| **Empaque** | AppImage · .deb · .rpm |
+| **Enfoque** | Local-first · bajo consumo de recursos · UX limpia |
+| **Estado** | ● En desarrollo activo |
 
 <details open>
 <summary><b>▸ Más proyectos por categoría</b></summary>
@@ -185,6 +195,38 @@ $ cargo tauri build --target linux
 
 <img src="./assets/divider.svg" width="100%" alt="divider">
 
+## `> DEV.WORKFLOW`
+
+<div align="center">
+
+[![Workflow](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&height=40&lines=cargo+new+mi-app+%E2%86%92+cargo+tauri+init;cargo+clippy+%E2%86%92+cargo+test+%E2%86%92+cargo+fmt;cargo+tauri+dev+%E2%86%92+iterar+r%C3%A1pido;cargo+tauri+build+%E2%86%92+AppImage+%7C+.deb+%7C+.rpm;git+commit+%E2%86%92+release+%E2%86%92+repetir)](https://git.io/typing-svg)
+
+</div>
+
+```mermaid
+flowchart LR
+    A[Problema real] --> B[MVP en Rust]
+    B --> C[UI con Tauri]
+    C --> D[Pruebas en Linux]
+    D --> E[Empaquetado]
+    E --> F[Release]
+    F -->|feedback| A
+```
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
+
+## `> ROADMAP.2026`
+
+```txt
+Q4 ▸ [██████████] Base sólida en Rust (ownership, async, errores)
+Q4 ▸ [████████░░] Apps Tauri para Linux publicadas con AppImage/.deb
+Q1 ▸ [█████░░░░░] CI/CD: builds y releases automáticos con GitHub Actions
+Q1 ▸ [███░░░░░░░] Docker + VPS para backends propios
+Q2 ▸ [██░░░░░░░░] IA local (Ollama) integrada en apps de escritorio
+```
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
+
 ## `> LOADING...`
 
 ```diff
@@ -194,9 +236,20 @@ $ cargo tauri build --target linux
 - [PENDIENTE] Integración de IA local con Ollama
 - [PENDIENTE] PostgreSQL avanzado
 - [PENDIENTE] Arquitecturas backend con Node.js y Express
-- [PENDIENTE] Apps desktop con Electron, Python y C#
+- [PENDIENTE] Apps desktop con Tauri, Electron, Python y C#
 - [PENDIENTE] Seguridad básica en aplicaciones web y APIs
 - [PENDIENTE] Testing, documentación y mejora continua
+```
+
+<img src="./assets/divider.svg" width="100%" alt="divider">
+
+## `> OPEN.TO`
+
+```diff
++ Proyectos de apps de escritorio para Linux (Rust + Tauri)
++ Backends y APIs con Node.js, Express y PostgreSQL
++ Automatización, herramientas internas e integración de IA local
++ Colaboraciones open source
 ```
 
 <img src="./assets/divider.svg" width="100%" alt="divider">
