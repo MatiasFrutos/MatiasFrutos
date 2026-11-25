@@ -4,23 +4,39 @@
 
 <br>
 
+<img src="./assets/marquee.svg" width="100%" alt="tecnologías">
+
+<br>
+
 <img src="./cat.gif" width="240" alt="cat">
 
 <br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B0F14?style=flat-square&logo=google-chrome&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](https://www.matiasfrutos.site/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](https://linkedin.com/in/matiasfrutos) [![Email](https://img.shields.io/badge/Email-0B0F14?style=flat-square&logo=gmail&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](mailto:matias.frutos@outlook.com)
 
-<sub>Técnico Electrónico · Buenos Aires, Argentina</sub>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&height=36&lines=%3E+Rust+%2B+Tauri+%E2%80%94+apps+nativas+para+Linux;%3E+Node.js+%2B+Express+%2B+PostgreSQL+%E2%80%94+backends+s%C3%B3lidos;%3E+Automatizaci%C3%B3n+%2B+IA+local+con+Ollama;%3E+Local-first+%C2%B7+Simple+%C2%B7+Mantenible)](https://github.com/MatiasFrutos)
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## `01 // PERFIL`
+## `01 // IDENTIDAD`
 
-Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, mantenimiento y soporte. Llevé esa experiencia práctica al software: herramientas internas, paneles administrativos, utilidades de escritorio, automatizaciones y aplicaciones web.
+<div align="center">
 
-Foco actual: aplicaciones nativas para Linux con **Rust y Tauri**, backend y automatización con IA local. Priorizo soluciones claras, mantenibles y orientadas a resolver problemas reales.
+<img src="./assets/identity.svg" width="90%" alt="identidad">
+
+</div>
+
+Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, mantenimiento y soporte. Llevé esa experiencia práctica al software: herramientas internas, paneles administrativos, utilidades de escritorio, automatizaciones y aplicaciones web. Priorizo soluciones claras, mantenibles y orientadas a resolver problemas reales.
+
+<div align="center">
+
+| **RUST + TAURI** | **LINUX FIRST** | **LOCAL-FIRST** | **MVP → ITERAR** |
+|:---:|:---:|:---:|:---:|
+| Apps nativas, seguras y livianas | AppImage · .deb · .rpm | Tus datos en tu máquina | Versión funcional, mejora continua |
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -35,6 +51,14 @@ Foco actual: aplicaciones nativas para Linux con **Rust y Tauri**, backend y aut
 | **Escritorio** | ![Tauri](https://img.shields.io/badge/Tauri-111827?style=flat-square&logo=tauri&logoColor=22D3EE&labelColor=0B0F14) ![Electron](https://img.shields.io/badge/Electron-111827?style=flat-square&logo=electron&logoColor=22D3EE&labelColor=0B0F14) |
 | **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=22D3EE&labelColor=0B0F14) ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=22D3EE&labelColor=0B0F14) ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=22D3EE&labelColor=0B0F14) ![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=flat-square&logo=powershell&logoColor=22D3EE&labelColor=0B0F14) |
 | **IA** | ![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=22D3EE&labelColor=0B0F14) |
+
+### `skill.matrix`
+
+<div align="center">
+
+<img src="./assets/skills.svg" width="90%" alt="skill matrix">
+
+</div>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -52,14 +76,24 @@ Foco actual: aplicaciones nativas para Linux con **Rust y Tauri**, backend y aut
 
 ## `04 // PROYECTOS`
 
-| Proyecto | Descripción |
-|---|---|
-| [Aurelius-IDE](https://github.com/MatiasFrutos/Aurelius-IDE) | Entorno de desarrollo |
-| [Morpheus-Note](https://github.com/MatiasFrutos/Morpheus-Note) | Aplicación de notas |
-| [API-WATCHTOWER](https://github.com/MatiasFrutos/API-WATCHTOWER) | Testing y monitoreo de APIs |
-| [SQLMind](https://github.com/MatiasFrutos/SQLMind) | Asistente SQL |
-| [DBPilot-Studio](https://github.com/MatiasFrutos/DBPilot-Studio) | Administración de bases de datos |
-| [Port-Watcher](https://github.com/MatiasFrutos/Port-Watcher) | Monitoreo de puertos |
+<div align="center">
+
+<a href="https://github.com/MatiasFrutos/Aurelius-IDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Aurelius-IDE&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="Aurelius-IDE"></a>
+<a href="https://github.com/MatiasFrutos/Morpheus-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Morpheus-Note&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="Morpheus-Note"></a>
+<a href="https://github.com/MatiasFrutos/API-WATCHTOWER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=API-WATCHTOWER&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="API-WATCHTOWER"></a>
+<a href="https://github.com/MatiasFrutos/SQLMind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=SQLMind&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="SQLMind"></a>
+<a href="https://github.com/MatiasFrutos/DBPilot-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=DBPilot-Studio&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="DBPilot-Studio"></a>
+<a href="https://github.com/MatiasFrutos/Port-Watcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Port-Watcher&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="Port-Watcher"></a>
+
+</div>
+
+### `now.building`
+
+<div align="center">
+
+<img src="./assets/building.svg" width="90%" alt="cargo tauri build">
+
+</div>
 
 <details>
 <summary>Más proyectos por categoría</summary>
@@ -85,6 +119,16 @@ Foco actual: aplicaciones nativas para Linux con **Rust y Tauri**, backend y aut
 <a href="https://github.com/MatiasFrutos"><img height="170" src="https://github-readme-stats.vercel.app/api?username=MatiasFrutos&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&ring_color=22D3EE" alt="Estadísticas"></a>
 <a href="https://github.com/MatiasFrutos"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasFrutos&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F14&title_color=22D3EE&text_color=9CA3AF" alt="Lenguajes"></a>
 
+<img width="98%" src="https://streak-stats.demolab.com?user=MatiasFrutos&theme=transparent&hide_border=true&background=0B0F14&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=E5E7EB&sideLabels=94A3B8&sideNums=E5E7EB&dates=64748B" alt="streak">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatiasFrutos&bg_color=0B0F14&color=94A3B8&line=22D3EE&point=E5E7EB&area=true&area_color=22D3EE&hide_border=true&custom_title=Actividad%20%C2%B7%20%C3%BAltimos%2031%20d%C3%ADas" alt="actividad">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatiasFrutos/MatiasFrutos/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatiasFrutos/MatiasFrutos/output/github-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/MatiasFrutos/MatiasFrutos/output/github-snake-dark.svg">
+</picture>
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="">
@@ -101,5 +145,15 @@ Foco actual: aplicaciones nativas para Linux con **Rust y Tauri**, backend y aut
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B0F14?style=flat-square&logo=google-chrome&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](https://www.matiasfrutos.site/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](https://linkedin.com/in/matiasfrutos) [![Email](https://img.shields.io/badge/Email-0B0F14?style=flat-square&logo=gmail&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](mailto:matias.frutos@outlook.com)
+
+</div>
+
+<div align="center">
+
+<br>
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+<sub>"No espero tener todo perfecto para empezar. Prefiero construir, aprender, corregir y seguir avanzando."</sub>
 
 </div>
