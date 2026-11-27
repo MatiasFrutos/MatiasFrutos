@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Matías Frutos — Full Stack Developer">
 
-<a href="https://github.com/MatiasFrutos"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=Rust+%2B+Tauri+%E2%80%94+apps+nativas+para+Linux;Node.js+%2B+Express+%2B+PostgreSQL+%E2%80%94+backends+s%C3%B3lidos;Automatizaci%C3%B3n+%2B+IA+local+con+Ollama;Local-first+%C2%B7+Simple+%C2%B7+Mantenible" alt="enfoques"></a>
+<a href="https://github.com/MatiasFrutos"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=8B5CF6&center=true&vCenter=true&width=820&height=40&lines=Rust+%2B+Tauri+%E2%80%94+apps+nativas+para+Linux;Node.js+%2B+Express+%2B+PostgreSQL+%E2%80%94+backends+s%C3%B3lidos;Automatizaci%C3%B3n+%2B+IA+local+con+Ollama;Local-first+%C2%B7+Simple+%C2%B7+Mantenible" alt="enfoques"></a>
 
 <a href="https://www.matiasfrutos.site/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a> <a href="https://linkedin.com/in/matiasfrutos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:matias.frutos@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/MatiasFrutos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
@@ -51,7 +51,7 @@ Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, 
 
 <br>
 
-<img src="./assets/skills.svg" width="100%" alt="skill matrix">
+<img src="./assets/skills.svg" width="100%" alt="mapa de competencias">
 
 </div>
 
@@ -59,13 +59,11 @@ Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, 
 
 <img src="./assets/h03.svg" width="100%" alt="Áreas de trabajo">
 
-| | Área | Alcance |
-|:---:|---|---|
-| ⚡ | **Backend y APIs** | Servicios REST, lógica de negocio, arquitectura server-side |
-| 🐧 | **Apps de escritorio** | Rust + Tauri para Linux (AppImage, .deb, .rpm) · Electron, Python y C# para herramientas internas |
-| ⚙️ | **Automatización** | Scripts y procesos que eliminan trabajo operativo repetitivo |
-| 🏢 | **Software de negocio** | Sistemas administrativos, paneles internos, modelado de datos |
-| 🧠 | **IA aplicada** | Asistentes y flujos con modelos locales (Ollama) |
+<div align="center">
+
+<img src="./assets/areas.svg" width="100%" alt="áreas de trabajo">
+
+</div>
 
 <br>
 
@@ -136,8 +134,6 @@ Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, 
 
 <br><br>
 
-<img src="./assets/divider.svg" width="100%" alt="">
-
-<sub><i>"No espero tener todo perfecto para empezar. Prefiero construir, aprender, corregir y seguir avanzando."</i></sub>
+<img src="./assets/footer.svg" width="100%" alt="cierre">
 
 </div>
