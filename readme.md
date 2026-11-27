@@ -1,97 +1,88 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Matías Frutos">
+<img src="./assets/banner.svg" width="100%" alt="Matías Frutos — Full Stack Developer">
 
-<br>
+<a href="https://github.com/MatiasFrutos"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=Rust+%2B+Tauri+%E2%80%94+apps+nativas+para+Linux;Node.js+%2B+Express+%2B+PostgreSQL+%E2%80%94+backends+s%C3%B3lidos;Automatizaci%C3%B3n+%2B+IA+local+con+Ollama;Local-first+%C2%B7+Simple+%C2%B7+Mantenible" alt="enfoques"></a>
 
-<img src="./assets/marquee.svg" width="100%" alt="tecnologías">
-
-<br>
-
-<img src="./cat.gif" width="240" alt="cat">
+<a href="https://www.matiasfrutos.site/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a> <a href="https://linkedin.com/in/matiasfrutos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:matias.frutos@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/MatiasFrutos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F14?style=flat-square&logo=google-chrome&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](https://www.matiasfrutos.site/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](https://linkedin.com/in/matiasfrutos) [![Email](https://img.shields.io/badge/Email-0B0F14?style=flat-square&logo=gmail&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](mailto:matias.frutos@outlook.com)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&height=36&lines=%3E+Rust+%2B+Tauri+%E2%80%94+apps+nativas+para+Linux;%3E+Node.js+%2B+Express+%2B+PostgreSQL+%E2%80%94+backends+s%C3%B3lidos;%3E+Automatizaci%C3%B3n+%2B+IA+local+con+Ollama;%3E+Local-first+%C2%B7+Simple+%C2%B7+Mantenible)](https://github.com/MatiasFrutos)
+<img src="./assets/marquee.svg" width="100%" alt="tecnologías">
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<br>
 
-## `01 // IDENTIDAD`
+<img src="./assets/h01.svg" width="100%" alt="Sobre mí">
 
 <div align="center">
 
-<img src="./assets/identity.svg" width="90%" alt="identidad">
+<img src="./cat.gif" width="220" alt="cat">
 
 </div>
 
-Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, mantenimiento y soporte. Llevé esa experiencia práctica al software: herramientas internas, paneles administrativos, utilidades de escritorio, automatizaciones y aplicaciones web. Priorizo soluciones claras, mantenibles y orientadas a resolver problemas reales.
+Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, mantenimiento y soporte. Llevé esa experiencia práctica al software: herramientas internas, paneles administrativos, utilidades de escritorio, automatizaciones y aplicaciones web. Priorizo soluciones **claras, mantenibles y orientadas a resolver problemas reales**.
 
 <div align="center">
 
-| **RUST + TAURI** | **LINUX FIRST** | **LOCAL-FIRST** | **MVP → ITERAR** |
-|:---:|:---:|:---:|:---:|
-| Apps nativas, seguras y livianas | AppImage · .deb · .rpm | Tus datos en tu máquina | Versión funcional, mejora continua |
+<img src="./assets/identity.svg" width="100%" alt="perfil">
+
+<br><br>
+
+<img src="./assets/pillars.svg" width="100%" alt="pilares">
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<br>
 
-## `02 // STACK`
-
-| Área | Tecnologías |
-|---|---|
-| **Lenguajes** | ![Rust](https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=22D3EE&labelColor=0B0F14) ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=22D3EE&labelColor=0B0F14) ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=22D3EE&labelColor=0B0F14) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=22D3EE&labelColor=0B0F14) ![C%23](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=22D3EE&labelColor=0B0F14) ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=22D3EE&labelColor=0B0F14) ![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=22D3EE&labelColor=0B0F14) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=22D3EE&labelColor=0B0F14) ![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=22D3EE&labelColor=0B0F14) ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=22D3EE&labelColor=0B0F14) ![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=22D3EE&labelColor=0B0F14) ![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=22D3EE&labelColor=0B0F14) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=22D3EE&labelColor=0B0F14) ![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=22D3EE&labelColor=0B0F14) ![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=22D3EE&labelColor=0B0F14) |
-| **Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=22D3EE&labelColor=0B0F14) ![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=22D3EE&labelColor=0B0F14) ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=22D3EE&labelColor=0B0F14) |
-| **Escritorio** | ![Tauri](https://img.shields.io/badge/Tauri-111827?style=flat-square&logo=tauri&logoColor=22D3EE&labelColor=0B0F14) ![Electron](https://img.shields.io/badge/Electron-111827?style=flat-square&logo=electron&logoColor=22D3EE&labelColor=0B0F14) |
-| **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=22D3EE&labelColor=0B0F14) ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=22D3EE&labelColor=0B0F14) ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=22D3EE&labelColor=0B0F14) ![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=flat-square&logo=powershell&logoColor=22D3EE&labelColor=0B0F14) |
-| **IA** | ![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=22D3EE&labelColor=0B0F14) |
-
-### `skill.matrix`
+<img src="./assets/h02.svg" width="100%" alt="Stack tecnológico">
 
 <div align="center">
-
-<img src="./assets/skills.svg" width="90%" alt="skill matrix">
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
-## `03 // ÁREAS DE TRABAJO`
 
 | | |
-|---|---|
-| **Backend y APIs** | Servicios REST, lógica de negocio, arquitectura server-side |
-| **Apps de escritorio** | Rust + Tauri para Linux (AppImage, .deb, .rpm); Electron, Python y C# para herramientas internas |
-| **Automatización** | Scripts y procesos que eliminan trabajo operativo repetitivo |
-| **Software de negocio** | Sistemas administrativos, paneles internos, modelado de datos |
-| **IA aplicada** | Asistentes y flujos con modelos locales |
+|:---:|:---|
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=rust,py,js,ts,cs,java,php&theme=dark&perline=10" alt="rust,py,js,ts,cs,java,php"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,angular,vite&theme=dark&perline=10" alt="html,css,react,angular,vite"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark&perline=10" alt="nodejs,express,flask"> |
+| **Datos** | <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb&theme=dark&perline=10" alt="postgres,sqlite,mongodb"> |
+| **Escritorio** | <img src="https://skillicons.dev/icons?i=tauri,electron&theme=dark&perline=10" alt="tauri,electron"> |
+| **Infra** | <img src="https://skillicons.dev/icons?i=docker,linux,git,bash,powershell&theme=dark&perline=10" alt="docker,linux,git,bash,powershell"> |
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<br>
 
-## `04 // PROYECTOS`
-
-<div align="center">
-
-<a href="https://github.com/MatiasFrutos/Aurelius-IDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Aurelius-IDE&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="Aurelius-IDE"></a>
-<a href="https://github.com/MatiasFrutos/Morpheus-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Morpheus-Note&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="Morpheus-Note"></a>
-<a href="https://github.com/MatiasFrutos/API-WATCHTOWER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=API-WATCHTOWER&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="API-WATCHTOWER"></a>
-<a href="https://github.com/MatiasFrutos/SQLMind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=SQLMind&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="SQLMind"></a>
-<a href="https://github.com/MatiasFrutos/DBPilot-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=DBPilot-Studio&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="DBPilot-Studio"></a>
-<a href="https://github.com/MatiasFrutos/Port-Watcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Port-Watcher&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&border_color=1E293B" alt="Port-Watcher"></a>
+<img src="./assets/skills.svg" width="100%" alt="skill matrix">
 
 </div>
 
-### `now.building`
+<br>
+
+<img src="./assets/h03.svg" width="100%" alt="Áreas de trabajo">
+
+| | Área | Alcance |
+|:---:|---|---|
+| ⚡ | **Backend y APIs** | Servicios REST, lógica de negocio, arquitectura server-side |
+| 🐧 | **Apps de escritorio** | Rust + Tauri para Linux (AppImage, .deb, .rpm) · Electron, Python y C# para herramientas internas |
+| ⚙️ | **Automatización** | Scripts y procesos que eliminan trabajo operativo repetitivo |
+| 🏢 | **Software de negocio** | Sistemas administrativos, paneles internos, modelado de datos |
+| 🧠 | **IA aplicada** | Asistentes y flujos con modelos locales (Ollama) |
+
+<br>
+
+<img src="./assets/h04.svg" width="100%" alt="Proyectos destacados">
 
 <div align="center">
 
-<img src="./assets/building.svg" width="90%" alt="cargo tauri build">
+<a href="https://github.com/MatiasFrutos/Aurelius-IDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Aurelius-IDE&hide_border=true&bg_color=0D1424&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=F472B6" alt="Aurelius-IDE"></a>
+<a href="https://github.com/MatiasFrutos/Morpheus-Note"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Morpheus-Note&hide_border=true&bg_color=0D1424&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=F472B6" alt="Morpheus-Note"></a>
+<a href="https://github.com/MatiasFrutos/API-WATCHTOWER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=API-WATCHTOWER&hide_border=true&bg_color=0D1424&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=F472B6" alt="API-WATCHTOWER"></a>
+<a href="https://github.com/MatiasFrutos/SQLMind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=SQLMind&hide_border=true&bg_color=0D1424&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=F472B6" alt="SQLMind"></a>
+<a href="https://github.com/MatiasFrutos/DBPilot-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=DBPilot-Studio&hide_border=true&bg_color=0D1424&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=F472B6" alt="DBPilot-Studio"></a>
+<a href="https://github.com/MatiasFrutos/Port-Watcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasFrutos&repo=Port-Watcher&hide_border=true&bg_color=0D1424&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=F472B6" alt="Port-Watcher"></a>
+
+<br>
+
+<img src="./assets/building.svg" width="100%" alt="cargo tauri build">
 
 </div>
 
@@ -110,18 +101,18 @@ Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, 
 
 </details>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<br>
 
-## `05 // MÉTRICAS`
+<img src="./assets/h05.svg" width="100%" alt="Métricas">
 
 <div align="center">
 
-<a href="https://github.com/MatiasFrutos"><img height="170" src="https://github-readme-stats.vercel.app/api?username=MatiasFrutos&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0B0F14&title_color=22D3EE&icon_color=22D3EE&text_color=9CA3AF&ring_color=22D3EE" alt="Estadísticas"></a>
-<a href="https://github.com/MatiasFrutos"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasFrutos&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F14&title_color=22D3EE&text_color=9CA3AF" alt="Lenguajes"></a>
+<a href="https://github.com/MatiasFrutos"><img height="170" src="https://github-readme-stats.vercel.app/api?username=MatiasFrutos&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1424&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=F472B6" alt="estadísticas"></a>
+<a href="https://github.com/MatiasFrutos"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasFrutos&layout=compact&langs_count=8&hide_border=true&bg_color=0D1424&title_color=A78BFA&text_color=CBD5E1" alt="lenguajes"></a>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=MatiasFrutos&theme=transparent&hide_border=true&background=0B0F14&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=E5E7EB&sideLabels=94A3B8&sideNums=E5E7EB&dates=64748B" alt="streak">
+<img width="98%" src="https://streak-stats.demolab.com?user=MatiasFrutos&hide_border=true&background=0D1424&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&currStreakNum=F1F5F9&sideLabels=A78BFA&sideNums=F1F5F9&dates=94A3B8&stroke=1C2640" alt="racha">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatiasFrutos&bg_color=0B0F14&color=94A3B8&line=22D3EE&point=E5E7EB&area=true&area_color=22D3EE&hide_border=true&custom_title=Actividad%20%C2%B7%20%C3%BAltimos%2031%20d%C3%ADas" alt="actividad">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatiasFrutos&bg_color=0D1424&color=CBD5E1&line=A78BFA&point=22D3EE&area=true&area_color=A78BFA&hide_border=true&custom_title=Actividad%20%C2%B7%20%C3%BAltimos%2031%20d%C3%ADas" alt="actividad">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatiasFrutos/MatiasFrutos/output/github-snake-dark.svg">
@@ -131,29 +122,22 @@ Desarrollador Full Stack con formación técnica en electrónica, diagnóstico, 
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<br>
 
-## `06 // DISPONIBLE PARA`
-
-- Aplicaciones de escritorio para Linux (Rust + Tauri)
-- Backends y APIs con Node.js, Express y PostgreSQL
-- Automatización, herramientas internas e integración de IA local
-- Colaboraciones open source
+<img src="./assets/h06.svg" width="100%" alt="Contacto">
 
 <div align="center">
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F14?style=flat-square&logo=google-chrome&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](https://www.matiasfrutos.site/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](https://linkedin.com/in/matiasfrutos) [![Email](https://img.shields.io/badge/Email-0B0F14?style=flat-square&logo=gmail&logoColor=22D3EE&labelColor=0B0F14&color=0B0F14)](mailto:matias.frutos@outlook.com)
-
-</div>
-
-<div align="center">
+**Disponible para:** apps de escritorio para Linux · backends y APIs con Node.js y PostgreSQL · automatización e IA local · open source
 
 <br>
+
+<a href="https://www.matiasfrutos.site/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a> <a href="https://linkedin.com/in/matiasfrutos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:matias.frutos@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/MatiasFrutos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br><br>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-<sub>"No espero tener todo perfecto para empezar. Prefiero construir, aprender, corregir y seguir avanzando."</sub>
+<sub><i>"No espero tener todo perfecto para empezar. Prefiero construir, aprender, corregir y seguir avanzando."</i></sub>
 
 </div>
